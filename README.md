@@ -1,4 +1,7 @@
-Implement Single Page Real Estate “Rent a Property” web app with filtering mechanism.
+Ui- Link https://github.com/sumitkumar7255/Real-State-Project/blob/first_project/Screenshot%20(42).png
+
+
+### Implement Single Page Real Estate “Rent a Property” web app with filtering mechanism.
 
 I have 4 levels of filtering as shown in the reference link - web app should display results which satisfies all the filters.
 Used dummy data - make sure to have enough dummy data to display results after applying filters
